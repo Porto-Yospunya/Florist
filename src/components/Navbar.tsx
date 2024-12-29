@@ -32,15 +32,15 @@ export const Navbar = () => {
     },
     {
       label: "Gallery",
-      path: "gallery",
+      path: "/gallery",
     },
     {
       label: "Shop",
-      path: "shop",
+      path: "/shop",
     },
     {
       label: "Contact",
-      path: "contact",
+      path: "/contact",
     },
   ];
 
