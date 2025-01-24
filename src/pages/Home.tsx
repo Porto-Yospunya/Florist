@@ -6,7 +6,7 @@ import { Link } from "@tanstack/react-router";
 import { FaRegClock as Clock } from "react-icons/fa";
 import { BsBoxArrowUpRight as Click } from "react-icons/bs";
 
-export const Home = () => {
+export const HomePage = () => {
 
   const services = [
     {
